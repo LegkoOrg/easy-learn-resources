@@ -1,1 +1,6 @@
-
+{
+  "minPrice": 100,
+  "maxPrice": 10000,
+  "subjects": ["math", "physics", "chemistry", "eng"],
+  "tariffs": ["basic", "exams", "advanced", "groups"]
+}
