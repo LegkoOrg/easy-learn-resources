@@ -1,6 +1,10 @@
 {
+  "locale": "ru",
+  "currency": "rub"
+  
   "minPrice": 100,
   "maxPrice": 10000,
+  
   "subjects": ["math", "physics", "chemistry", "eng", "biology"],
   "tariffs": ["basic", "exams", "advanced", "groups"]
 }
