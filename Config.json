@@ -1,6 +1,6 @@
 {
   "locale": "ru",
-  "currency": "rub"
+  "currency": "rub",
   
   "minPrice": 100,
   "maxPrice": 10000,
