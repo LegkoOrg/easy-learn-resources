@@ -1,6 +1,6 @@
 { 
   "minPrice": 100,
   "maxPrice": 10000,
-  "subjects": ["math", "physics", "chemistry", "eng", "biology", "IT", "japanese"],
+  "subjects": ["math", "physics", "chemistry", "eng", "biology", "it", "japanese", "astonomy", "history"],
   "tariffs": ["basic", "exams", "advanced", "groups"]
 }
