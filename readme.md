@@ -1,1 +1,1 @@
-configs and locales for different countries
+configs and locales for different countries.
