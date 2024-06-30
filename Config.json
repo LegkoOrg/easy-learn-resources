@@ -3,5 +3,5 @@
   "maxPrice": 10000,
   "subjects": ["math", "physics", "chemistry", "eng", "biology", "it", "russian", "astronomy", "history"],
   "tariffs": ["basic", "exams", "advanced", "groups"],
-  "host" : "https://easylearn-backend-smxqtossyq-lz.a.run.app"
+  "host": "https://easylearn-backend-smxqtossyq-lz.a.run.app"
 }
