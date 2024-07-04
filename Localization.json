@@ -63,5 +63,14 @@
   "cancel": "Отменить",
   "university_name_placeholder": "Укажите название учреждения",
   "study_programme_placeholder": "Укажите направление или специальность",
-  "add_more": "Добавить еще"
+  "add_more": "Добавить еще",
+  "no_name": "Имя не указано",
+  "no_subjects": "Предметы не указаны",
+  "place_in_search": "место",
+  "positive_review": "Положительный",
+  "negative_review": "Отрицательный",
+  "tariff_cost": "Стоимость тарифа",
+  "not_number": "Не число",
+  "tariff_cost_placeholder": "Укажите стоимость тарифа",
+  "class_request": "Записаться"
 }
