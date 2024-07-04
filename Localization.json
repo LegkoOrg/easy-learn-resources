@@ -57,5 +57,12 @@
   "copy_profile_link_success": "Ссылка скопирована",
   "bio_placeholder": "Укажите информацию о себе",
   "no_reviews": "Нет отзывов",
-  "load_more": "Загрузить еще"
+  "load_more": "Загрузить еще",
+  "not_indicated": "Не указано",
+  "save": "Сохранить",
+  "cancel": "Отменить",
+  "university_name_placeholder": "Укажите название учреждения",
+  "study_programme_placeholder": "Укажите направление или специальность",
+  "add_more": "Добавить еще",
+  
 }
